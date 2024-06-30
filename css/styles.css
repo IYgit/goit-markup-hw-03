@@ -67,7 +67,7 @@ img {
 .container {
   width: 1158px;
   margin: 0 auto;
-  padding: 0 12px;
+  padding: 0 15px;
 }
 
 section {
@@ -199,7 +199,7 @@ section {
 
   display: block;
   margin: auto;
-  width: 169px;
+  min-width: 169px;
   height: 56px;
   border: none;
   border-radius: 4px;  
@@ -304,6 +304,7 @@ section {
 .footer a {
   display: inline-block;
   color: var(--iris);
+  margin-bottom: 16px;
 }
 
 
